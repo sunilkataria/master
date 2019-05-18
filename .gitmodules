@@ -1,0 +1,3 @@
+[submodule "slave1"]
+	path = slave1
+	url = https://github.com/sunilkataria/slave1
